@@ -1,0 +1,14 @@
+name : Heal
+author: RaMiiOffiCial
+version: 1.0.0
+api: 3.0.0
+main: Heal\Main
+
+commands:
+  heal:
+    description: Heal Dadn Be Player
+    permission: heal.use
+permissions:
+  heal.use:
+    default: op
+
